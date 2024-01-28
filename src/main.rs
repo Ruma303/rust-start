@@ -2,7 +2,7 @@ fn main() {
     println!("Hello world");
 
     // Commento single-line
-    // codice non commmentato
+    // codice non commentato
 
     /* Codice
     multi-line */
