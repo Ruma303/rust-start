@@ -48,6 +48,11 @@ fn main() {
     // Lavoro come developer e insegnante di programmazione
 
 
+    //# Espressioni
+    // println!("Somma 10 + 5 = {}", 10 + 5);
+    // Somma 10 + 5 = 15
+
+
     //# Esadecimali
     // println!("Red: #{:x}{:x}{:x}00", 255, 0, 0); // Red: #ff0000
     // println!("Blue: #00{:X}{:X}{:X}", 0, 0, 255); // Blue: #0000FF
@@ -69,10 +74,6 @@ fn main() {
 
     // println!("{0} in notazione scientifica vale: {:E}", 999999999);
     // 999999999 in notazione scientifica vale: 9.99999999E8
-
-    
-
-
 
 
     //# Tuple
